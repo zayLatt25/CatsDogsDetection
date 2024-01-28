@@ -1,1 +1,1 @@
-# CatsDogsDetection
+# Cats And Dogs Detection
